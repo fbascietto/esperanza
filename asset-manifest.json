@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/esperanza/static/css/main.3b17eb7d.chunk.css",
+    "main.css": "/esperanza/static/css/main.d4d2ad76.chunk.css",
     "main.js": "/esperanza/static/js/main.46219e6f.chunk.js",
     "main.js.map": "/esperanza/static/js/main.46219e6f.chunk.js.map",
     "runtime-main.js": "/esperanza/static/js/runtime-main.5a739ef3.js",
@@ -10,14 +10,14 @@
     "static/js/3.bf47f0ed.chunk.js": "/esperanza/static/js/3.bf47f0ed.chunk.js",
     "static/js/3.bf47f0ed.chunk.js.map": "/esperanza/static/js/3.bf47f0ed.chunk.js.map",
     "index.html": "/esperanza/index.html",
-    "static/css/main.3b17eb7d.chunk.css.map": "/esperanza/static/css/main.3b17eb7d.chunk.css.map",
+    "static/css/main.d4d2ad76.chunk.css.map": "/esperanza/static/css/main.d4d2ad76.chunk.css.map",
     "static/js/2.d9c12785.chunk.js.LICENSE.txt": "/esperanza/static/js/2.d9c12785.chunk.js.LICENSE.txt",
     "static/media/App.css": "/esperanza/static/media/tano.a84d8979.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.5a739ef3.js",
     "static/js/2.d9c12785.chunk.js",
-    "static/css/main.3b17eb7d.chunk.css",
+    "static/css/main.d4d2ad76.chunk.css",
     "static/js/main.46219e6f.chunk.js"
   ]
 }
