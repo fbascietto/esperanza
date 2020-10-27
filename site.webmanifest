@@ -1,6 +1,6 @@
 {
-    "name": "",
-    "short_name": "",
+    "short_name": "Cañuelas",
+    "name": "Countdown para el cañuelazo",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
