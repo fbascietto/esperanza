@@ -10,7 +10,7 @@ const renderer = ({ days, hours, minutes, seconds, completed }) => {
     return <Completionist />;
   } else {
     // Render a countdown
-    const text = `Faltan ${days} días, ${hours} horas, ${minutes} minutos y ${seconds} segundos.`;
+    const text = `${days} días, ${hours} horas, ${minutes} minutos y ${seconds} segundos.`;
     return <span>{text}</span>;
   }
 };
@@ -22,7 +22,7 @@ function App() {
         <h1>
           Cuadrazos, Cañuelas en:
         </h1>
-        <Countdown date={'2020-12-08T16:00:00'} renderer={renderer}/>
+        <Countdown date={'2020-12-04T16:00:00'} renderer={renderer}/>
         <div className='Item'>
           <a
             className="link"
