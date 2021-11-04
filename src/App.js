@@ -82,7 +82,7 @@ function App() {
           Cuadrazos, Cañuelas en:
         </h1>
         <div className="countdown">
-          <Countdown date={'2021-12-03T16:00:00'} renderer={renderer}/>
+          <Countdown date={'2021-12-07T16:00:00'} renderer={renderer}/>
         </div>
           { renderTable(clima) }
         <div className='Item'>
