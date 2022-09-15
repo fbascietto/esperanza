@@ -3,7 +3,7 @@ import Countdown from 'react-countdown'
 import axios from 'axios';
 import './App.css';
 
-const quinta = new Date('07/12/2021');
+const quinta = new Date('07/12/2022');
 const today = new Date();
 const days = Math.ceil((quinta - today) / (1000 * 3600 * 24));
 const readyToCanuelas = () => days < 10;
